@@ -23,14 +23,16 @@ Este proyecto tiene como objetivo crear una interfaz gráfica con el icónico Cl
 - [ ] Poner un avatar estático (clippy del Windows viejo)
 - [ ] Poner burbujas de out/in para tener una conversación con él
 - [ ] Mostrar dos mensajes a la vez, pregunta del usuario, respuesta del bot
-- [ ] Conectar el bot con Azure AI y solo hacer prompt engineering
+- [x] Conectar el bot con Azure AI y solo hacer prompt engineering
+- [x] Guardar credenciales en el vault de windows
 
 ### Opcional:
 
 - [ ] Animar el avatar
 - [ ] Poner más de dos burbujas
 - [ ] Hacer una ventana de configuración de variables de entorno
-- [ ] Hacer un conector universal para diferentes AI e implementar técnicas avanzadas de AI
+- [x] Hacer un conector universal para diferentes AI 
+- [ ] Implementar técnicas avanzadas de AI(rag)
 
 ## Para colaborar en el proyecto
 
